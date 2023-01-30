@@ -5,7 +5,7 @@
 
 ### Importing and creating a USACApi object
 
-Ensure the usacapi.py file is in current directory or specify specific path. The constructor takes no arguments.
+Ensure the usacapi.py file is in current directory or at specified path. The constructor takes no arguments.
 
 ```python3
 from usacapi import USACApi
